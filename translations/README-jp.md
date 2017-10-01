@@ -1,4 +1,5 @@
-# Coding Interview University
+# -Coding Interview University
+# コーディング面接大学
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
@@ -35,26 +36,41 @@ Translations in progress:
 - [Italian](https://github.com/jwasham/coding-interview-university/issues/170)
 - [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
 
-## What is it?
+## -What is it?
+## これって何?
 
-This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
+-This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
+
+これは、情報工学の学位を持たない私が独学で、ウェブ開発者から大企業のソフトウェアエンジニアになるための数か月の学習計画です。
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
-This is meant for **new software engineers** or those switching from
+-This is meant for **new software engineers** or those switching from
 software/web development to software engineering (where computer science knowledge is required). If you have
 many years of experience and are claiming many years of software engineering experience, expect a harder interview.
 
-If you have many years of software/web development experience, note that large software companies like Google, Amazon,
+これは、**新しいソフトウェアエンジニア**、またはソフトウェア/ Web開発からソフトウェアエンジニアリング
+（コンピュータサイエンスの知識が必要とされるもの）に転職する方を対象としています。 
+長年の経験またはソフトウェアエンジニアの経験がある方は、少し大変な面接になると思ってください。
+
+-If you have many years of software/web development experience, note that large software companies like Google, Amazon,
 Facebook and Microsoft view software engineering as different from software/web development, and they require computer science knowledge.
 
-If you want to be a reliability engineer or systems engineer, study more from the optional list (networking, security).
+Google、Amazon、Facebook、Microsoftなどの大規模なソフトウェア会社は、ソフトウェアエンジニアリングをソフトウェア/ Web開発とは異なるものとして見ており、
+これらの会社ではコンピュータサイエンスの知識が必要となることを、長年のソフトウェア/ Web開発経験がある方には知っておいてほしいです。
+
+-If you want to be a reliability engineer or systems engineer, study more from the optional list (networking, security).
+
+もし信頼されるエンジニアまたはシステムエンジニアになりたければ、ネットワークやセキュリティなどの後半にあるリストを用いてもっと学習しましょう。
+
 
 ---
 
-## Table of Contents
+## -Table of Contents
+## コンテンツ一覧
 
-- [What is it?](#what-is-it)
+- [-What is it?](#what-is-it)
+- [これって何?](#これって何)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
@@ -170,7 +186,8 @@ If you want to be a reliability engineer or systems engineer, study more from th
 
 ---
 
-## Why use it?
+## -Why use it?
+## どうしてこれを使うの?
 
 When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
 traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
@@ -181,16 +198,33 @@ thousands of associative arrays, but I've never created data structures from scr
 
 It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
 
-## How to use it
+私がこのプロジェクトを始めたとき、ヒープからスタックも知りませんでした。Big-Oとは何か、木とは何か、グラフの走査が何か、何もわかりませんでした。
+もしソートアルゴリズムをコーディングしなければならなくなっても、あまりうまくいかなかったはずです。
+これまで使用してきた全てのデータ構造はプログラミング言語に組み込まれており、どのように動作しているのかを知りませんでした。
+私が実行していたプロセスが "メモリ不足"エラーを出さない限り、メモリを管理する必要はありませんでしたが、回避策を見つける必要がありました。
+私は今までに幾度となく多次元配列、何千もの連想配列を使いましたが、データ構造を一から作成したことはありませんでした。
 
-Everything below is an outline, and you should tackle the items in order from top to bottom.
+これは長いプランです。 数ヶ月程かかるかもしれません。 しかしもしすでに知り親しんでいるものがあれば、それだけ短い時間で勉強ができます。
 
-I'm using Github's special markdown flavor, including tasks lists to check progress.
+## -How to use it
+## どのように使うの？
 
-**Create a new branch so you can check items like this, just put an x in the brackets: [x]**
+-Everything below is an outline, and you should tackle the items in order from top to bottom.
 
+下のすべてが概要です。アイテムを上から下に順番に取り組んでください。
 
-    Fork a branch and follow the commands below
+-I'm using Github's special markdown flavor, including tasks lists to check progress.
+
+これは進行を確認するタスクリストを含む、Githubのspecial markdown flavorを使用しています。
+
+-**Create a new branch so you can check items like this, just put an x in the brackets: [x]**
+
+**新しいbranchを作成して、空欄の[ ]から[x]のように項目にチェックを付けましょう。**
+
+**英語版シート**
+
+    -Fork a branch and follow the commands below
+    branchをforkし、次にようにコマンドを入力してください。
 
 `git checkout -b progress`
 
@@ -198,6 +232,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 `git fetch --all`
 
+    -Mark all boxes with X after you completed your changes
     Mark all boxes with X after you completed your changes
 
 `git add . `
@@ -208,7 +243,33 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 `git push --force `
 
-[More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+**日本語版シート**
+
+    -Fork a branch and follow the commands below
+    branchをforkし、次にようにコマンドを入力してください。
+
+`git checkout -b progress`
+
+`git remote add Yang-33 https://github.com/Yang-33/coding-interview-university`
+
+`git fetch --all`
+
+    -Mark all boxes with X after you completed your changes
+    学習を完了した項目[ ]に、[x]とxをつけます。(README-jp.md)
+
+`git add . `
+
+`git commit -m "Marked x" `
+
+`git rebase Yang-33/master `
+
+`git push --force `
+
+[-More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+
+[Github-flavored markdownについてもっと知りたい方はこちら](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+
+こここここ
 
 ## Don't feel you aren't smart enough
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
