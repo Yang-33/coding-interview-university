@@ -71,9 +71,12 @@ Google、Amazon、Facebook、Microsoftなどの大規模なソフトウェア会
 
 - [-What is it?](#what-is-it)
 - [これって何?](#これって何)
-- [Why use it?](#why-use-it)
-- [How to use it](#how-to-use-it)
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+- [-Why use it?](#why-use-it)
+- [どうしてこれを使うの？](#どうしてこれを使うの)
+- [-How to use it](#how-to-use-it)
+- [どのように使うの？](#どのように使うの)
+- [-Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+- [自分を賢くないと思うなかれ](#自分を賢くないと思うなかれ)
 - [About Video Resources](#about-video-resources)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
 - [Pick One Language for the Interview](#pick-one-language-for-the-interview)
@@ -269,12 +272,18 @@ It's a long plan. It may take you months. If you are familiar with a lot of this
 
 [Github-flavored markdownについてもっと知りたい方はこちら](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-こここここ
 
-## Don't feel you aren't smart enough
-- Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
-- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+
+## -Don't feel you aren't smart enough
+## 自分を賢くないと思うなかれ
+-Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
+-[The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+-[It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+
+- 成功しているソフトウェアエンジニアは賢いが、その中の多くの人は「- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+
+
 
 ## About Video Resources
 
