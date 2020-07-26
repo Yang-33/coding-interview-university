@@ -292,13 +292,13 @@ It's a long plan. It may take you months. If you are familiar with a lot of this
 ## 映像資料について
 
 Some videos are available only by enrolling in a Coursera or EdX class. These are called MOOCs.
-Sometimes the classes are not in session so you have to wait a couple of months, so you have no access. Lynda.com courses are not free.
+Sometimes the classes are not in session so you have to wait a couple of months, so you have no access. 
 
     I'd appreciate your help to add free and always-available public sources, such as YouTube videos to accompany the online course videos.
     I like using university lectures.
 
 動画の中には、Coursera、EdXのクラスに登録しないと見ることができないものもあります。これらはMOOCsと呼ばれています。
-クラスが開催されていないこともあり、その場合数ヶ月待たなければならず、アクセスできないこともあります。Lynda.comのコースは無料ではありません。
+クラスが開催されていないこともあり、その場合数ヶ月待たなければならず、アクセスできないこともあります。
 
     オンラインコースの動画に加えてYouTubeの動画など、無料でいつでも利用できる公開ソースを追加してくれるとありがたいです。
     私は大学の講義の動画を用いるのが好きです。
