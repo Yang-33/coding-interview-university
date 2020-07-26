@@ -278,9 +278,9 @@ It's a long plan. It may take you months. If you are familiar with a lot of this
 
 ## -Don't feel you aren't smart enough
 ## 自分を賢くないと思うなかれ
--Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
--[The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
--[It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+- Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
+- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
 - 成功しているソフトウェアエンジニアは賢いが、その多くは「自分は賢くない」という不安を抱えている。
 - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
@@ -299,6 +299,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 
 動画の中には、Coursera、EdXのクラスに登録しないと見ることができないものもあります。これらはMOOCsと呼ばれています。
 クラスが開催されていないこともあり、その場合数ヶ月待たなければならず、アクセスできないこともあります。Lynda.comのコースは無料ではありません。
+
     オンラインコースの動画に加えてYouTubeの動画など、無料でいつでも利用できる公開ソースを追加してくれるとありがたいです。
     私は大学の講義の動画を用いるのが好きです。
 
@@ -325,6 +326,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
         - A free Python centric data structures and algorithms course.
     - [ ] [Data Structures and Algorithms Nanodegree! (Udacity paid Nanodegree)](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256):
         - Get hands-on practice with over 100 data structures and algorithm exercises and guidance from a dedicated mentor to help prepare you for interviews and on-the-job scenarios.
+
 
 
 - [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
