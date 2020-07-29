@@ -71,11 +71,16 @@ Google、Amazon、Facebook、Microsoftなどの大規模なソフトウェア会
 
 - [-What is it?](#what-is-it)
 - [これって何?](#これって何)
-- [Why use it?](#why-use-it)
-- [How to use it](#how-to-use-it)
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-- [About Video Resources](#about-video-resources)
+- [-Why use it?](#why-use-it)
+- [どうしてこれを使うの？](#どうしてこれを使うの)
+- [-How to use it](#how-to-use-it)
+- [どのように使うの？](#どのように使うの)
+- [-Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+- [自分を賢くないと思うなかれ](#自分を賢くないと思うなかれ)
+- [-About Video Resources](#about-video-resources)
+- [映像資料について](#映像資料について)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
+- [面接の流れと一般的な面接対策](#面接の流れと一般的な面接対策)
 - [Pick One Language for the Interview](#pick-one-language-for-the-interview)
 - [Book List](#book-list)
 - [Before you Get Started](#before-you-get-started)
@@ -269,39 +274,82 @@ It's a long plan. It may take you months. If you are familiar with a lot of this
 
 [Github-flavored markdownについてもっと知りたい方はこちら](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-こここここ
 
-## Don't feel you aren't smart enough
+
+## -Don't feel you aren't smart enough
+## 自分を賢くないと思うなかれ
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
-## About Video Resources
+- 成功しているソフトウェアエンジニアは賢いが、その多くは「自分は賢くない」という不安を抱えている。
+- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
-Some videos are available only by enrolling in a Coursera, EdX, or Lynda.com class. These are called MOOCs.
-Sometimes the classes are not in session so you have to wait a couple of months, so you have no access. Lynda.com courses are not free.
+
+
+## -About Video Resources
+## 映像資料について
+
+Some videos are available only by enrolling in a Coursera or EdX class. These are called MOOCs.
+Sometimes the classes are not in session so you have to wait a couple of months, so you have no access. 
 
     I'd appreciate your help to add free and always-available public sources, such as YouTube videos to accompany the online course videos.
     I like using university lectures.
 
+動画の中には、Coursera、EdXのクラスに登録しないと見ることができないものもあります。これらはMOOCsと呼ばれています。
+クラスが開催されていないこともあり、その場合数ヶ月待たなければならず、アクセスできないこともあります。
 
-## Interview Process & General Interview Prep
+    オンラインコースの動画に加えてYouTubeの動画など、無料でいつでも利用できる公開ソースを追加してくれるとありがたいです。
+    私は大学の講義の動画を用いるのが好きです。
+
+## -Interview Process & General Interview Prep
+## 面接の流れと一般的な面接対策
 
 - [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
 - [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-- [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
+- [ ] How to Get a Job at the Big 4:
+    - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 - [ ] Cracking The Coding Interview Set 1:
     - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
     - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
-- [ ] How to Get a Job at the Big 4:
-    - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
-
+- [ ] Cracking the Facebook Coding Interview
+    - [ ] [The Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
+    - [ ] [Problem Walkthrough](https://www.youtube.com/watch?v=4UWDyJq8jZg)
 - [ ] Prep Course:
     - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
-    - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
+    - [ ] [Python for Data Structures, Algorithms, and Interviews (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
         - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
+    - [ ] [Intro to Data Structures and Algorithms using Python (Udacity free course)](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513):
+        - A free Python centric data structures and algorithms course.
+    - [ ] [Data Structures and Algorithms Nanodegree! (Udacity paid Nanodegree)](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256):
+        - Get hands-on practice with over 100 data structures and algorithm exercises and guidance from a dedicated mentor to help prepare you for interviews and on-the-job scenarios.
+
+
+
+- [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
+- [ ] Big 4(Amazon, Facebook, Google & Microsoft)に就職する方法:
+    - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+- [ ] コーディングインタビューをクラックする Set 1:
+    - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
+    - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
+- [ ] Facebookのコーディングインタビューをクラックする:
+    - [ ] [The Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
+    - [ ] [Problem Walkthrough](https://www.youtube.com/watch?v=4UWDyJq8jZg)
+- [ ] コースの準備:
+    - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
+        - 元Googleの面接官から、ソフトウェアエンジニアの面接に臨むための心構えを学びましょう。
+    - [ ] [Python for Data Structures, Algorithms, and Interviews (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
+        - データ構造、アルゴリズム、模擬面接などを網羅したPython中心の面接対策講座。
+    - [ ] [Intro to Data Structures and Algorithms using Python (Udacity free course)](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513):
+        - Python中心のデータ構造とアルゴリズムの無料コース。
+    - [ ] [Data Structures and Algorithms Nanodegree! (Udacity paid Nanodegree)](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256):
+        - 100以上のデータ構造とアルゴリズムの演習と専任のメンターからの指導により、面接やOJTのシナリオに備えることができます。
+
 
 ## Pick One Language for the Interview
 
